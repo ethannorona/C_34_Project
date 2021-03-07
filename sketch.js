@@ -19,7 +19,7 @@ function preload() {
 }
 
 function setup() {
-  var canvas = createCanvas(3000, 800);
+  var canvas = createCanvas(3500, 3000);
   engine = Engine.create();
   world = engine.world;
   // create sprites here
